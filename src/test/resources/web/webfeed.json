@@ -1,0 +1,13 @@
+{
+  "desiredCapabilities": {
+  },
+  "arguments": [
+    "incognito","start-fullscreen"
+  ],
+  "preferences": {
+  },
+  "extensions": [
+  ],
+  "experimentalOptions": {
+  }
+}

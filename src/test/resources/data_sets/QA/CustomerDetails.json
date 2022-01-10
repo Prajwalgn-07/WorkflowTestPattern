@@ -1,0 +1,23 @@
+{
+  "CustomerWithAccount":[{
+    "email": "test1@mail.com",
+    "password": "12345",
+    "addressLine1": "Sunkadakatte",
+    "addressLine2": "#3",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "pinCode": "560091"
+  }],
+  "CustomerWithoutAccount": [{
+    "firstName": "Hakim abdhulla",
+    "lastName": "hassan",
+    "email": "test192@mail.com",
+    "password": "123455",
+    "addressLine1": "Sunkadakatte",
+    "addressLine2": "#3",
+    "city": "Bangalore",
+    "state": "Karnataka",
+    "pinCode": "560091"
+  }]
+}
+
